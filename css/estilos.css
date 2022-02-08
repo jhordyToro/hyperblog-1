@@ -18,3 +18,14 @@ body
     text-align: center;
     
 }
+
+
+#cabecera 
+{
+    background-color: rgb(216, 25, 216);
+    width: auto;
+    height: auto;
+    border: solid rgb(159, 11, 233);
+}
+
+
