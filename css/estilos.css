@@ -4,3 +4,21 @@ body
     background-color: blueviolet;
     text-decoration-color: brown;
 }
+
+#contenedor 
+{
+    border: solid gray;
+    width: auto;
+    height: auto;
+
+}
+
+#texto 
+{
+    text-align: center;
+    
+}
+title
+{
+    text-size-adjust: ;
+}
