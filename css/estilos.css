@@ -22,3 +22,17 @@ title
 {
     text-size-adjust: ;
 }
+
+#cabecera 
+{
+    background-color: rgb(216, 25, 216);
+    width: auto;
+    height: auto;
+    border: solid rgb(159, 11, 233);
+}
+
+#cabecera b
+{
+    font-size: 30px;
+    
+}
